@@ -1,1 +1,1 @@
-docker pull redis7.0.7
+sudo docker pull redis7.0.7
