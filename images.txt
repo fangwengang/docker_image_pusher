@@ -1,1 +1,1 @@
-docker pull redis
+docker pull redis7.0.7
