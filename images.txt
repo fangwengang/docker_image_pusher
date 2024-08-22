@@ -1,1 +1,1 @@
-emqx/emqtt-bench:latest
+emqx/emqx-enterprise
