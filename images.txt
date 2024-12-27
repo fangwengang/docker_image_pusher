@@ -1,1 +1,1 @@
-apache/iotdb:1.1.0-standalone
+kong/3.1
