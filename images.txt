@@ -1,1 +1,1 @@
-kong/kong:3.6
+kong/kubernetes-ingress-controller:3.1
