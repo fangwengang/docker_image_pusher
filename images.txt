@@ -1,1 +1,1 @@
-kong/kong:3.2
+kong/kong:3.6
