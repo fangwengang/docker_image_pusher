@@ -1,1 +1,1 @@
-bitnami/postgresql:14.5.0-debian-11-r35
+mysql:8.0.35
