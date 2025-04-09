@@ -1,1 +1,1 @@
-openjdk:8-jdk
+tomcat@sha256:79d7d3c045843947014e3ccbefb7761f18b4f7f81403e02aa89cf6a3f66bd9b4
