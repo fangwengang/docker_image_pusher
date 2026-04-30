@@ -1,1 +1,1 @@
-minio/minio
+farerboy/dm8_single:dm8_20230808_rev197096_x86_rh6_64
